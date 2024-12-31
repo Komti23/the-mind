@@ -1,0 +1,4 @@
+name: Razum
+version: '1.0'
+main: ru.hypestyle.razum.MadnessPlugin
+api-version: '1.20'
